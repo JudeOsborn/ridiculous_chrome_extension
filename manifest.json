@@ -14,8 +14,7 @@
     "persistent": true
   },
   "permissions": [
-    "tabs",
-    ""
+    "tabs"
   ],
   "content_scripts": [
     {
